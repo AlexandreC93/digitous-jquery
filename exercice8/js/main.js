@@ -1,3 +1,3 @@
-$('.btn').click(function (){
-    $('#text')
-})
+// $('.btn').click(function (){
+//     $('#text')
+// })
